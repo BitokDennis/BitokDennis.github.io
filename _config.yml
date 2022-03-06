@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "S305/ THE KINGDOM"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "DR LA"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
